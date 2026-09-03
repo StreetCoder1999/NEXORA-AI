@@ -1,4 +1,5 @@
 import "./signUpPage.css";
+import { SignUp } from "@clerk/react";
 const SignUpPage = () => {
   return (
     <div className="signUpPage">

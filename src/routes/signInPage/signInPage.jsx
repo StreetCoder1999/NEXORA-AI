@@ -1,5 +1,5 @@
 import "./signInPage.css";
-
+import { SignIn } from "@clerk/react";
 const SignInPage = () => {
   return (
     <div className="signInPage">
